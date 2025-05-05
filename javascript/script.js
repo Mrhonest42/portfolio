@@ -1,4 +1,4 @@
-const roles = ['Web Designer', 'Frontend Developer', 'ML Developer', 'Data Analyst', 'Designer'];
+const roles = ['Web Designer', 'MERN StackDeveloper', 'ML Developer', 'Data Analyst', 'Designer'];
     const typingSpan = document.querySelector('.typing');
     let roleIndex = 0;
     let charIndex = 0;
