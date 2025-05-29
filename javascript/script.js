@@ -27,5 +27,5 @@ const roles = ['Web Designer', 'MERN StackDeveloper', 'ML Developer', 'Data Anal
     }
 
     document.addEventListener('DOMContentLoaded', () => {
-        typeEffect(); // Ensure this runs after DOM is loaded
+        typeEffect(); // Ensure this runs after DOM is loaded: Consolas, 'Courier New', monospace
     });
